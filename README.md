@@ -14,17 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<main style="position: relative;">
-<img src="https://github.com/Graells.png" alt="GitHub Avatar" style="border-radius: 50%; width: 100px; height: 100px; position: absolute; right: 0; top: 0; margin: 0;">
+<!-- <img src="https://github.com/Graells.png" alt="GitHub Avatar" style="border-radius: 50%; width: 100px; height: 100px; position: absolute; right: 0; top: 0; margin: 0;"> -->
+
 
 <div align="center">
-  <strong style="font-size: 1.5rem;">
+  <h3>
   Hi there 👋, I'm FXGraells
   </strong>
-</div>
+  </h3>
 
-
-----
 ----
 <div align="center">
 <p>· Software Developer based in Barcelona,  born in 1994.</p>
@@ -103,10 +101,11 @@ I use:
 
 <!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGraells1212%2Fhit-counter" alt="Profile Hit Counter"> -->
 
+<!-- 
 -------
 <p>Badges source:</p>
 <ul>
   <li><a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">Badges4-README.md-Profile</a></li>
   <li><a href="https://badges.pages.dev/">Simple Badges</a></li>
 </ul>
-</main>
+-->
