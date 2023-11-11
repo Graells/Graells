@@ -85,9 +85,9 @@ I use:
 <img alt="Google Cloud Badge" src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=for-the-badge">
 <img alt="Netlify Badge" src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=for-the-badge">
 <img alt="Docker Badge" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge">
+<img alt="GIT Badge" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
 <h4>Other tools:</h4>
-<img alt="GIT Badge" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img alt="Postman Badge" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 <img alt="Figma Badge" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img alt="pgAdmin Badge" src="https://cupscoffee.s3.eu-west-3.amazonaws.com/pgAdmin.png" width="100" height="29">
