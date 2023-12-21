@@ -17,28 +17,21 @@ Here are some ideas to get you started:
 <!-- <img src="https://github.com/Graells.png" alt="GitHub Avatar" style="border-radius: 50%; width: 100px; height: 100px; position: absolute; right: 0; top: 0; margin: 0;"> -->
 
 
-<div align="center">
+<div align="left">
   <h3>
   Hi there 👋, I'm FXGraells
   </strong>
   </h3>
 
 ----
-<div align="center">
-<p>· Software Developer based in Barcelona,  born in 1994.</p>
+- Software Developer based in Barcelona, born in 1994.
+- I'm a self-driven and detail-oriented professional with a passion and motivation to always keep learning in this ever-evolving sector.
+- Interested in physical fitness and spending quality time outdoors 😎.
 
-<p>· I'm a self-driven and detail-oriented professional with a passion and motivation to always keep learning in this ever-evolving sector.</p>
-
-<p>· Interested in physical fitness and spending quality time outdoors
-<picture>
-<source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.webp" type="image/webp">
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="32" height="32">
-</picture>
-.
-</p>
+<div align="left">
 
 <p>
-· Some technologies 
+Some technologies 
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9be/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9be/512.gif" alt="🦾" width="32" height="32">
@@ -47,58 +40,57 @@ I use:
 </p>
 
 <h4>Languages:</h4>
-<img alt="JavaScript Badge" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img alt="TypeScript Badge" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img alt="JavaScript Badge" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" >
+<img alt="TypeScript Badge" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg">
 
 <h4>Frontend:</h4>
-<img alt="React Badge" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img alt="Vite Badge" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
-<img alt="Angular Badge" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-<img alt="Redux Badge" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-<img alt="HTML5 Badge" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img alt="CSS3 Badge" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img alt="Tailwind CSS Badge" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img alt="Next.js Badge" src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg" width="90" height="63">
+<img alt="React Badge" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+<img alt="Angular Badge" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg">
+<img alt="Redux Badge" src="https://raw.githubusercontent.com/prplx/svg-logos/b6009ab65b59f2afe14adca64a2d7425b85ca05e/svg/redux.svg" width="100" height="63">
+<img alt="HTML5 Badge" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+<img alt="CSS3 Badge" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
+<img alt="Tailwind CSS Badge" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg">
 
 <h4>Backend:</h4>
-<img alt="Node.js Badge" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img alt="Express.js Badge" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
-<img alt="NestJS Badge" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-<img alt="Koa Badge" src="https://img.shields.io/badge/koa-eaeaea?style=for-the-badge&logo=koa&logoColor=black">
-<img alt="GraphQL Badge" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white">
-<img alt="Socket.io Badge" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white">
+<img alt="Node.js Badge" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+<img alt="Express.js Badge" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+<img alt="NestJS Badge" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg">
+<img alt="GraphQL Badge" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg">
+<img alt="Socket.io Badge" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg">
 
-<h4>Database/ORMs:</h4>
-<img alt="PostgreSQL Badge" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img alt="MongoDB Badge" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-<img alt="Mongoose Badge" src="https://img.shields.io/badge/Mongoose-800?logo=mongoose&logoColor=fff&style=for-the-badge">
-<img alt="Sequelize Badge" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
-<img alt="Prisma Badge" src="https://img.shields.io/badge/prisma-0c3249?style=for-the-badge&logo=prisma&logoColor=white">
-<img alt="TypeORM Badge" src="https://user-images.githubusercontent.com/30929568/112730670-de09a480-8f58-11eb-9875-0d9ebb87fbd6.png" width="100" height="50">
+<h4>Database:</h4>
+<img alt="PostgreSQL Badge" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg">
+<img alt="MongoDB Badge" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
 
 <h4>Testing:</h4>
-<img alt="Jest Badge" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
-<img alt="Jasmine Badge" src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white">
-<img alt="Cypress Badge" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
+<img alt="Jest Badge" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg">
+<img alt="Cypress Badge" src="https://raw.githubusercontent.com/gilbarbara/logos/f133ea921b012052000964e3feb023b57146895b/logos/cypress.svg" width="100" height="63">
 
 <h4>DevOps, CI/CD:</h4>
-<img alt="Amazon AWS Badge" src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=for-the-badge">
-<img alt="Google Cloud Badge" src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=for-the-badge">
-<img alt="Netlify Badge" src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=for-the-badge">
-<img alt="Docker Badge" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge">
+<img alt="Amazon AWS Badge" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
+<img alt="Google Cloud Badge" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg">
+<img alt="Netlify Badge" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg">
+<img alt="Docker Badge" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
 
 <h4>Other tools:</h4>
-<img alt="GIT Badge" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-<img alt="Postman Badge" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-<img alt="Figma Badge" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img alt="GIT Badge" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+<img alt="Postman Badge" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg">
+<img alt="Figma Badge" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg">
 <img alt="pgAdmin Badge" src="https://cupscoffee.s3.eu-west-3.amazonaws.com/pgAdmin.png" width="100" height="29">
 
+----------------
+
+
+<div align="center">
 <h3>Connect with me:</h3>
 <p>
-  <a href="https://github.com/Graells" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/xavier-graells/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://github.com/Graells" target="_blank"><img alt="Github" src="https://www.cdnlogo.com/logos/g/69/github-icon.svg" width="30" /></a> 
+  <a href="https://www.linkedin.com/in/xavier-graells/" target="_blank"><img alt="LinkedIn" src="https://www.cdnlogo.com/logos/l/66/linkedin-icon.svg" width="30" /></a> 
 </p>
-</div>
 
+</div>
+</div>
 <!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGraells1212%2Fhit-counter" alt="Profile Hit Counter"> -->
 
 <!-- 
