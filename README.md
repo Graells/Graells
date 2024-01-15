@@ -24,7 +24,8 @@ I use:
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,nextjs,react,redux,angular,nestjs,express,graphql,nodejs,git,jest,postgres,mongodb,postman,vscode,figma,docker,bash,md,githubactions,vercel,aws"/>
 </p>
-----------------
+
+----
 
 
 <div align="center">
