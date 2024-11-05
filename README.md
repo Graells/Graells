@@ -2,12 +2,12 @@
 
 <div align="left">
   <h3>
-  Hi there 👋, I'm FXGraells
+  Hi there 👋, I'm F.X. Graells
   </strong>
   </h3>
 
 ----
-- Software Developer based in Barcelona, born in 1994.
+- Software Developer from Barcelona.
 - Visit my personal website:   <a href="https://www.tokyo49.com" target="_blank">tokyo49.com</a> 
 
 <div align="left">
@@ -22,7 +22,7 @@ I use:
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,nextjs,react,redux,angular,nestjs,express,graphql,nodejs,git,jest,postgres,mongodb,postman,vscode,figma,docker,bash,md,githubactions,vercel,aws"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,angular,nextjs,react,nodejs,git,postgres,postman,figma,docker,bash,vercel,aws"/>
 </p>
 
 ----
