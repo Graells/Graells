@@ -2,15 +2,15 @@
 
 <div align="left">
   <h3>
-  Hi there 👋, I'm F.X. Graells
+  Hi there
   </strong>
   </h3>
 
 ----
 - Software Developer from Barcelona.
-- Visit my personal website:   <a href="https://www.tokyo49.com" target="_blank">tokyo49.com</a> 
+- Personal website:   <a href="https://www.fxgraells.com" target="_blank">fxgraells.com</a> 
 
-<div align="left">
+<!-- <div align="left">
 
 <p>
 Some technologies 
@@ -23,12 +23,12 @@ I use:
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,python,angular,nextjs,react,nodejs,git,postgres,postman,figma,docker,bash,vercel,aws"/>
-</p>
+</p> -->
 
 ----
 
 
-<div align="center">
+<div align="left">
 <h3>Connect with me:</h3>
 <p>
   <a href="https://github.com/Graells" target="_blank"><img alt="Github" src="https://www.cdnlogo.com/logos/g/69/github-icon.svg" width="30" /></a> 
